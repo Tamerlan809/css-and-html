@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 0;
+  }
+  
+header{
+    background-color: darkslategray;
+    color: aliceblue;
+    text-align: center;
+    margin-top: -21px;
+}
+
+footer{
+    background-color: darkslategray;
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+li {
+    display: inline-block;
+}
+
+li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+main{
+    text-align: center;
+}
+
+.bild1{
+    text-align: center;
+}
+
+.bild2{
+    text-align: center;
+}
+
+.bild3{
+    text-align: center;
+}
+
+.bild4{
+    text-align: center;
+}
+
+.bild5{
+    text-align: center;
+}
